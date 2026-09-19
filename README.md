@@ -1,0 +1,1 @@
+# Vortex-NV-PState-And-VRAM-Clock-Locker
